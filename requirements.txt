@@ -10,6 +10,9 @@ requests>=2.31.0
 # Environment configuration
 python-dotenv>=1.0.0
 
+# Z.ai GLM SDK
+zai-sdk>=0.2.0
+
 # Optional visualization dependencies
 matplotlib>=3.7.3
 pandas>=2.1.4
