@@ -2,6 +2,8 @@
 
 **Analyze your Google Ads campaigns, ads, and performance using GLM's 355B Mixture-of-Experts model through natural language conversations.**
 
+**Repository**: https://github.com/nochinsky/google-ads-glm
+
 ---
 
 ## 🚀 Quick Start
